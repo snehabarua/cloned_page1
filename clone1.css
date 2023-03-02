@@ -184,8 +184,13 @@ h4{
     display: none;
   }
 
-  .icon_menu {
+  .icon_menu img{
     display: block;
+    
+  }
+  #none img{
+    height: 15px;
+    width: 15px;
   }
 
   .container {
@@ -213,6 +218,9 @@ h4{
   }
 
   .footer img {
-    width: 140px;
+    width: 120px;
   }
+#p2{
+  font-size: 12px;
+}
 } 
